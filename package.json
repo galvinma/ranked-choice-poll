@@ -48,7 +48,7 @@
     "jest-resolve": "23.6.0",
     "jest-watch-typeahead": "^0.2.1",
     "jquery": "^3.6.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mini-css-extract-plugin": "0.5.0",
     "moment": "^2.29.1",
     "mongodb": "^3.6.6",
